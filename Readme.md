@@ -10,7 +10,6 @@ GradGuide aims to:
 
 - Foster a community where students can receive personalized career advice from alumni.
 - Streamline job referral and mentorship processes.
-- Use machine learning to automate and personalize resume evaluation.
 - Enable structured interaction via posts, comments, and secure messaging.
 - Provide curated career development resources and industry insights.
 
@@ -23,9 +22,8 @@ GradGuide aims to:
 - Role-based access control for **students** and **alumni**.
 
 ### 2. Resume Sorting & Candidate Ranking
-- Integration of a **machine learning model** to:
-  - Sort resumes.
-  - Rank candidates based on job requirements and skills.
+- Sort resumes.
+- Rank candidates based on job requirements and skills.
 
 ### 3. Alumni-Student Interaction
 - Centralized platform for communication and collaboration.
@@ -55,25 +53,21 @@ GradGuide aims to:
 ### 8. Career Resources
 - Access to a curated resource center with:
   - Job market trends.
-  - Industry insights.
   - Professional development materials.
 
 ---
 
 ## 📌 Technologies & Tools (Suggested)
-- Frontend: React / Angular
+- Frontend: React
 - Backend: Node.js / Express
-- Database: MongoDB / PostgreSQL
+- Database: MongoDB
 - Authentication: JWT
-- Machine Learning: Python (scikit-learn / TensorFlow)
-- Hosting: AWS / Heroku / Vercel
 
 ---
 
 ## 💡 Future Enhancements
 - Alumni rating system based on student feedback.
 - Advanced job matching algorithms.
-- Video call support for mentoring sessions.
 - Gamified learning paths and milestone tracking.
 
 ---
